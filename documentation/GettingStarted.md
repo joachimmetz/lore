@@ -22,7 +22,7 @@ What else needs a version?
 * Releases
 * Builds
 * APIs and ABIs
-** Linux shared library (.so) versioning
+  * Linux shared library (.so) versioning
 
 #### Available versioning schemes
 
@@ -70,7 +70,7 @@ issue templates
 
 ### Receving feedback
 
-positive (unconstructive) feedback
-negative (unconstructive) feedback
-constructive feedback
-how to deal with jerks, trolls, self-proclaimed experts and other negative online personalities
+* positive (unconstructive) feedback
+* negative (unconstructive) feedback
+* constructive feedback
+* how to deal with critict, jerks/trolls, self-proclaimed experts and other type of negative people
